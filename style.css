@@ -38,6 +38,7 @@ body{
 p{
   color: white;
  font-size: 50px;
+  
 }
 
 
@@ -69,11 +70,21 @@ h2{
   font-size: 80px;
   color: white;  
 }
+      #box{
+       	background-color: black;
+				padding: 1px 50px;
+        opacity: 0.7;
+        position: relative;
+        top: 700px;
+   
+      }
 
-		#nav {
+
+		#nav{
 				background-color: white;
 				padding: 1px 5x;
        opacity: 0.5;
+   
 
 
 
