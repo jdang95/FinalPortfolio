@@ -35,6 +35,11 @@ body{
     color: white;
 }
 
+p{
+  color: white;
+ font-size: 50px;
+}
+
 
 a{
   font-family: 'JelleeRoman'; 
@@ -65,6 +70,10 @@ h2{
   color: white;  
 }
 
+		#nav {
+				background-color: white;
+				padding: 1px 5x;
+       opacity: 0.5;
 
 
 
