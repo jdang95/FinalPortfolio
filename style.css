@@ -72,10 +72,11 @@ h2{
 }
       #box{
        	background-color: black;
-				padding: 1px 50px;
+	padding: 1px 50px;
         opacity: 0.7;
         position: relative;
         top: 700px;
+	      text-align:center;
    
       }
 
